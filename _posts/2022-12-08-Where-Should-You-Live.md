@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Where Should You Live
+title:  Where Should You Live?
 categories: [D3, Project]
 excerpt: We created a visualization to allow the user to compare different states and cities based on a number of criteria. 
 ---
@@ -11,4 +11,4 @@ We chose to make an interactive set of visualizations that allowed the user to c
 
 To create this tool, we first had to clean the data. A number of different tables were joined in pandas, and the number of usable cities was whittled down until we had 950. The visualizations were created using the D3.js libraries. 
 
-To check out the wesbite we made, navigate on over [here] (https://josephgeibig.github.io/CityFinder/). Our group member Joseph was kind enough to host the website on his GitHub pages. 
+To check out the wesbite we made, navigate on over [here](https://josephgeibig.github.io/CityFinder/). Our group member Joseph was kind enough to host the website on his GitHub pages. 
