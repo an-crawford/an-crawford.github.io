@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Where SHould You Live
+title:  Where Should You Live
 categories: [D3, Project]
 excerpt: We created a visualization to allow the user to compare different states and cities based on a number of criteria. 
 ---
