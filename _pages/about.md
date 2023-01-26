@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![me](/images/IMG_4794.JPG)
+![me](/images/Small Headshot.JPG)
 
 Hello! My name is Andrew Crawford. I am a M.S. Analytics student at Georgia Tech in Atlanta, GA with an expected graduation date of August 2023. I am currently pursuing a career in the field of Data Science. 
 
